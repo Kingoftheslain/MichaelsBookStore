@@ -1,4 +1,3 @@
-using MichaelsBookStore.Data;
 using MichaelsBooks.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;

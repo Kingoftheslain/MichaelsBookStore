@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using MichaelsBooks.DataAccess.Data;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MichaelsBookStore.Data
+namespace MichaelsBookStore.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
