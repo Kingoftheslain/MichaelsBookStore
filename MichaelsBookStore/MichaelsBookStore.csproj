@@ -24,11 +24,13 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.16" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.16" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.16" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\MichaelsBooks.DataAccess\MichaelsBooks.DataAccess.csproj" />
     <ProjectReference Include="..\MichaelsBooks.Models\MichaelsBooks.Models.csproj" />
+    <ProjectReference Include="..\MichaelsBooks.Utility\MichaelsBooks.Utility.csproj" />
   </ItemGroup>
 
 </Project>

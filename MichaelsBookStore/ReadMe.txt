@@ -42,3 +42,11 @@ Injected additional scripts to be used
     New: package downgrade for EntityFrameworkCore.SqlServer from 5.0.11 to 3.1.16
 
 11:35 Fixed the Package downgrade error
+
+Nov 2nd
+
+20:00 Reopened the project and began debugging to get projects to run for up to slide 35 of P1
+
+20:10 fixed a package mismatch error
+
+20:25 Managed to get my Project to run for up to Slide 35 of P1
