@@ -7,12 +7,32 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Areas\Admin\Data\**" />
+    <Compile Remove="Areas\Admin\Models\**" />
+    <Compile Remove="Areas\Customers\Data\**" />
+    <Compile Remove="Areas\Customers\Models\**" />
+    <Compile Remove="Controllers\**" />
     <Compile Remove="Data\**" />
     <Compile Remove="Models\**" />
+    <Content Remove="Areas\Admin\Data\**" />
+    <Content Remove="Areas\Admin\Models\**" />
+    <Content Remove="Areas\Customers\Data\**" />
+    <Content Remove="Areas\Customers\Models\**" />
+    <Content Remove="Controllers\**" />
     <Content Remove="Data\**" />
     <Content Remove="Models\**" />
+    <EmbeddedResource Remove="Areas\Admin\Data\**" />
+    <EmbeddedResource Remove="Areas\Admin\Models\**" />
+    <EmbeddedResource Remove="Areas\Customers\Data\**" />
+    <EmbeddedResource Remove="Areas\Customers\Models\**" />
+    <EmbeddedResource Remove="Controllers\**" />
     <EmbeddedResource Remove="Data\**" />
     <EmbeddedResource Remove="Models\**" />
+    <None Remove="Areas\Admin\Data\**" />
+    <None Remove="Areas\Admin\Models\**" />
+    <None Remove="Areas\Customers\Data\**" />
+    <None Remove="Areas\Customers\Models\**" />
+    <None Remove="Controllers\**" />
     <None Remove="Data\**" />
     <None Remove="Models\**" />
   </ItemGroup>
@@ -31,6 +51,10 @@
     <ProjectReference Include="..\MichaelsBooks.DataAccess\MichaelsBooks.DataAccess.csproj" />
     <ProjectReference Include="..\MichaelsBooks.Models\MichaelsBooks.Models.csproj" />
     <ProjectReference Include="..\MichaelsBooks.Utility\MichaelsBooks.Utility.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Controllers\" />
   </ItemGroup>
 
 </Project>
