@@ -81,3 +81,11 @@ Yes I Know I started this very late, I've had a lot of personal Issues going on 
 22:54 Had an Issue with the AddScoped section, realized I didn't properly publicize the IRepo counterpart and fixed it, I also Finished P2.2 and I'm uploading to Github now
 
 23:00 taking a break after VS19 crashed shortly after uploading to github, Thankfully it uploaded before crashing
+
+23:30 Came back from my break with some coffee ready to finish this
+
+23:52 Finished adding Category Index to Admin area and to the Dropdown, also took the time to properly fix my Dropdown
+
+01:00 I have the functions working and my table loads Data, however my text blends in with the background
+
+01:13 I have finished the assignment save changing the text color
