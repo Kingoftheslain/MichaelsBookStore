@@ -1,3 +1,6 @@
+using MichaelsBooks.DataAccess.Repository.IRepository;
+using MichaelsBooks.DataAccess.Repository;
+using MichaelsBooks.DataAccess;
 using MichaelsBooks.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -32,6 +35,7 @@ namespace MichaelsBookStore
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<IdentityUser>() //options => options.SignIn.RequireConfirmedAccount = true
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
             services.AddRazorPages();
         }

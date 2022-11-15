@@ -75,3 +75,7 @@ Yes I Know I started this very late, I've had a lot of personal Issues going on 
 19:28 Just got to Slide 7, at the part where is asks to check the Assignment 2 folder, Going to take a small break to eat Dinner, then continue with the rest of the work.
 
 21:07 Took a much longer break than I had origonally intended, but I am ready to finish P.2
+
+22:32 Still working, and everything has been running and working smoothly
+
+22:54 Had an Issue with the AddScoped section, realized I didn't properly publicize the IRepo counterpart and fixed it, I also Finished P2.2 and I'm uploading to Github now

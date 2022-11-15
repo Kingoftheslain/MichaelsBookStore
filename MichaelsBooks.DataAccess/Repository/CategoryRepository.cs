@@ -16,7 +16,7 @@ namespace MichaelsBooks.DataAccess.Repository
             _db = db;
         }
 
-        public void update(Category category)
+        public void Update(Category category)
         {
             //throw new NotImplementedException();
             //use .NET LINQ to retrieve the first or default category object
