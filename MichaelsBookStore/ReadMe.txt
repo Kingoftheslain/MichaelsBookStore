@@ -1,5 +1,5 @@
-﻿Author Name:
-Student :
+﻿Author Name: Michael MacNeill
+Student #:   0237866
 
 Nov 1st
 
@@ -79,3 +79,5 @@ Yes I Know I started this very late, I've had a lot of personal Issues going on 
 22:32 Still working, and everything has been running and working smoothly
 
 22:54 Had an Issue with the AddScoped section, realized I didn't properly publicize the IRepo counterpart and fixed it, I also Finished P2.2 and I'm uploading to Github now
+
+23:00 taking a break after VS19 crashed shortly after uploading to github, Thankfully it uploaded before crashing
