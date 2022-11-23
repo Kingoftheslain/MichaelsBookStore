@@ -63,6 +63,8 @@ Yes I Know I started this very late, I've had a lot of personal Issues going on 
 
 17:57 Added to my ReadMe the work I Have done so far, as well as a comment before it, I also have just finished P1 completely and it runs
 
+------- P2 -------
+
 18:00 Taking a short break to mentally recharge and Finish all of P2 by the end of Tonight, also Starting up my Spotify Gym playlist to get me hyped
     If You're curious, I'll leave the link here: https://open.spotify.com/playlist/50Kdj1XOTODBbMpNjOZ9MD?si=F33zscj4T9-NVnsrIBVGVA&utm_source=copy-link
         It's much smaller than my Main playlist, However I'm looking to keep myself Energized, and don't wanna get distracted by skipping songs and losing track of my thought process
@@ -92,3 +94,10 @@ Yes I Know I started this very late, I've had a lot of personal Issues going on 
 01:00 I have the functions working and my table loads Data, however my text blends in with the background
 
 01:13 I have finished the assignment save changing the text color
+
+------- P3 -------
+
+Nov 23
+
+19:15 I'm Starting very late again, however this is due to Working Midnights the last 9 days, giving me very little free time between everything, I will do my best to finish everything before 21:00
+
