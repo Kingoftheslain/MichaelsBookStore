@@ -110,3 +110,5 @@ Nov 23
 Migration file for AddProductToDb is 20221124012517_AddProductToDb.cs
 
 18:55 I have Finished Part 3 Section 1, I had a Typo issue at the end where I misspelt IProductRepository, which wouldn't allow it to call the other locations
+
+19:23 I have managed to Finish up to Part 3 Section 2
