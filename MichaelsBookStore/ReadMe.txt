@@ -99,5 +99,11 @@ Yes I Know I started this very late, I've had a lot of personal Issues going on 
 
 Nov 23
 
-19:15 I'm Starting very late again, however this is due to Working Midnights the last 9 days, giving me very little free time between everything, I will do my best to finish everything before 21:00
+17:15 I'm Starting very late again, however this is due to Working Midnights the last 9 days, giving me very little free time between everything, I will do my best to finish everything before 21:00
+
+18:04 Realizing how much of a task this is going to be, even with some shortcuts added to the process
+
+19:17 I Have made it without any Major errors to adding Product, The errors I did encounter were as follows:
+    My table was not showing the correct table, This was because I duplicated the Link to the category folder through the dropdown rather than the CoverType folder
+    My table did not load data, this was due to not correctly naming the Folder in the URL in the JS file
 
