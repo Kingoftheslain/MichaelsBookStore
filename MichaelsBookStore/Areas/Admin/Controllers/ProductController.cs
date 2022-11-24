@@ -30,7 +30,7 @@ namespace MichaelsBookStore.Areas.Admin.Controllers
         }
 
 
-
+ /*
         public IActionResult Upsert(int? id)
         {
             ProductVM productVM = new ProductVM()
@@ -159,7 +159,7 @@ namespace MichaelsBookStore.Areas.Admin.Controllers
             return Json(new { success = true, message = "Delete Successful" });
         }
 
-        #endregion
+        #endregion */
 
     }
 }
