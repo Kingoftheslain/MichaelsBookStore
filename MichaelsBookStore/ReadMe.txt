@@ -103,7 +103,10 @@ Nov 23
 
 18:04 Realizing how much of a task this is going to be, even with some shortcuts added to the process
 
-19:17 I Have made it without any Major errors to adding Product, The errors I did encounter were as follows:
+18:17 I Have made it without any Major errors to adding Product, The errors I did encounter were as follows:
     My table was not showing the correct table, This was because I duplicated the Link to the category folder through the dropdown rather than the CoverType folder
     My table did not load data, this was due to not correctly naming the Folder in the URL in the JS file
 
+Migration file for AddProductToDb is 20221124012517_AddProductToDb.cs
+
+18:55 I have Finished Part 3 Section 1, I had a Typo issue at the end where I misspelt IProductRepository, which wouldn't allow it to call the other locations
