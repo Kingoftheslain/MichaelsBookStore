@@ -30,7 +30,7 @@ namespace MichaelsBookStore.Areas.Admin.Controllers
         }
 
 
- /*
+
         public IActionResult Upsert(int? id)
         {
             ProductVM productVM = new ProductVM()
@@ -72,7 +72,7 @@ namespace MichaelsBookStore.Areas.Admin.Controllers
                 if (files.Count > 0)
                 {
                     string fileName = Guid.NewGuid().ToString();
-                    var uploads = Path.Combine(webRootPath, @"\images\products");
+                    var uploads = Path.Combine(webRootPath, @"images\products");
                     var extension = Path.GetExtension(files[0].FileName);
 
                     if (productVM.Product.ImageUrl != null)
@@ -159,7 +159,7 @@ namespace MichaelsBookStore.Areas.Admin.Controllers
             return Json(new { success = true, message = "Delete Successful" });
         }
 
-        #endregion */
+        #endregion
 
     }
 }
