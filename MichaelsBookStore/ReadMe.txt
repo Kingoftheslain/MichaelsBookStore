@@ -112,3 +112,11 @@ Migration file for AddProductToDb is 20221124012517_AddProductToDb.cs
 18:55 I have Finished Part 3 Section 1, I had a Typo issue at the end where I misspelt IProductRepository, which wouldn't allow it to call the other locations
 
 19:23 I have managed to Finish up to Part 3 Section 2
+
+Nov 30th
+
+22:44 I am begining to Finish up the last of my project, I should be done in roughly 30ish mins
+
+23:45 I have finished all of my work, However I have a weird bug where i cannot view the tables on my personal desktop, but it works on any other device
+
+23:53 I can't figure out why i cannot get my table to work on the desktop, But I can test my work on my laptop so i will just continue P5 on my laptop
