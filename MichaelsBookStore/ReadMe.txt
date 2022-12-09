@@ -120,3 +120,12 @@ Nov 30th
 23:45 I have finished all of my work, However I have a weird bug where i cannot view the tables on my personal desktop, but it works on any other device
 
 23:53 I can't figure out why i cannot get my table to work on the desktop, But I can test my work on my laptop so i will just continue P5 on my laptop
+
+Dec 9th
+
+10:09 Adding the finishing Details to my assignment, and then submitting
+ 
+11:10 After spending about an hour working on it, I could not figure out how to get the Images to load, only the URL to them in the Database
+    The Changes I made were;
+        Adding the Images Table Row
+        Added to the js file
